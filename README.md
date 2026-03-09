@@ -1,21 +1,44 @@
-<h1 align="center">Hi 👋, I'm Iodonium</h1>
-<h3 align="center">A passionate tech enthusiast or hunger for knowledge</h3>
+# Hi, I'm **Iodonium** 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iodonium&label=Profile%20views&color=0e75b6&style=flat" alt="iodonium" /> </p>
+Welcome to my GitHub profile! ✨
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iodonium" alt="iodonium" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Esp 32**
+## ⚡ Magical ESP32
 
-- 🌱 I’m currently learning **Esp 32, babylonJS and Hardware**
+<model-viewer src="https://iodonium.github.io/iodonium/adafruit_huzzah32_esp32_feather.glb" alt="ESP32 Feather" auto-rotate camera-controls ar shadow-intensity="1" style="width: 100%; max-width: 600px; height: 400px;"></model-viewer>
 
-- ⚡ Fun fact **I am too lazy but I think I am hardworking**
+> Hover and rotate the magical 3D ESP32!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+## 🛠 Skills
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![Iodonium GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iodonium&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## ✨ Fun Fact
+
+I love **ESP32, embedded systems, and futuristic tech**.  
+This profile is the start of a **magical developer journey**. 🪄
+
+---
+
+<p align="center">
+  <a href="https://iodonium.github.io/iodonium/adafruit_huzzah32_esp32_feather.glb" target="_blank">
+    <img src="https://img.shields.io/badge/Explore-3D%20ESP32-magenta?style=for-the-badge&logo=blender&logoColor=white" alt="3D ESP32 Link"/>
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iodonium&show_icons=true&locale=en&layout=compact" alt="iodonium" /></p>
