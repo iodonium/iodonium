@@ -50,6 +50,15 @@ Welcome to my GitHub profile! ✨
 I love **ESP32, embedded systems, and futuristic tech**.  
 This profile is the start of a **magical developer journey**. 🪄
 
+😇This is my very begining of by journey, give me your blessings. 
+
+🤥I am good in hardware like arduino and esp32 along with some programming language like JavaScript and C++.
+
+🥴I am currently exploring deep in hardware and Ai
+
+❤ I love to collaborate and get your help on mc-mod-gen .(https://github.com/iodonium/mc-mod-gen) 
+
+
 ---
 
 <p align="center">
