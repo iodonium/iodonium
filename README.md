@@ -1,14 +1,23 @@
-# Hi, I'm **Iodonium** 👋
+![17732150348986975436626076523213](https://github.com/user-attachments/assets/aca3c205-53c4-4a7b-8c48-e39d9671a2e5)
+
+# Hi ![17732155768126930501579738576266](https://github.com/user-attachments/assets/3d44f759-21c3-432c-8a10-e3a85615f3e0), I'm **Iodonium**
+
+
 
 Welcome to my GitHub profile! ✨
 
 ---
 
-## ⚡ Magical ESP32
+## ⚡ My favourite ESP32
 
 <model-viewer src="https://iodonium.github.io/iodonium/adafruit_huzzah32_esp32_feather.glb" alt="ESP32 Feather" auto-rotate camera-controls ar shadow-intensity="1" style="width: 100%; max-width: 600px; height: 400px;"></model-viewer>
+![17732158792255341881693156837319](https://github.com/user-attachments/assets/c235715f-a772-43ea-87c8-7a7269613b9e)
 
-> Hover and rotate the magical 3D ESP32!
+
+
+
+
+> This is my biggest intrest
 
 ---
 
@@ -30,6 +39,13 @@ Welcome to my GitHub profile! ✨
 ---
 
 ## ✨ Fun Fact
+
+***My skills:**
+
+![1773215307375618056222342138721](https://github.com/user-attachments/assets/6e873797-b10c-47a1-9903-e634411a149b)
+
+---
+## 🏀 Know Better
 
 I love **ESP32, embedded systems, and futuristic tech**.  
 This profile is the start of a **magical developer journey**. 🪄
